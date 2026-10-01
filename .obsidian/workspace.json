@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "80f216cc7d6f188b",
+    "type": "split",
+    "children": [
+      {
+        "id": "95abad36b908152e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "962b809f2e07ec7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudioPracticeExampleVault/DailyNotes/2026-09-23 Starting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-23 Starting"
+            }
+          },
+          {
+            "id": "f0010e49b7853b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudioPracticeExampleVault/Help using Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Help using Obsidian"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c55d02b1c91fa429",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81c8d4bcea5d400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fb597bc4c83d20c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a68491cc94078957",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "aa7ab27a4230e087",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd40859627c6f1db",
+    "type": "split",
+    "children": [
+      {
+        "id": "d40c8e1c03eb20e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "196187e8360dfd17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "StudioPracticeExampleVault/Help using Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "ff94509a58b13986",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "StudioPracticeExampleVault/Help using Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "70ebb730d40f5bab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "880071532534cf8d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "25b0df297e4cd2e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "StudioPracticeExampleVault/Help using Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "f0010e49b7853b53",
+  "lastOpenFiles": [
+    "StudioPracticeExampleVault/TagQueries.md",
+    "Jialin Xin.md",
+    "StudioPracticeExampleVault/DailyNotes/2026-09-23 Starting.md",
+    "StudioPracticeExampleVault/Help using Obsidian.md",
+    "StudioPracticeExampleVault/Dumping ground.md",
+    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
+    "README.md",
+    "未命名"
+  ]
+}

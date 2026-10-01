@@ -1,0 +1,1 @@
+My name is Jialin Xin. You can call me Jolly. I am come from China. I love to focus on people daily life problems. Thus my inspiration always appeared through experience, feeling, thinking... I will continue to explore more deeply qusetions about human and computer/machine.
